@@ -1,0 +1,17 @@
+header {
+    background-color: #1b90d9;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+
+}
+
+.header {
+
+    background-repeat: no-repeat;
+    height: 170px;
+    background-image: url(../img/logo.svg);
+    background-size: 300px;
+    background-position: left;
+    margin-left: 50px;
+    
+}
