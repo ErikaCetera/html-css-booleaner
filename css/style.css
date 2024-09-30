@@ -1,3 +1,6 @@
+body{
+    text-align: left;
+}
 header {
     background-color: #1b90d9;
     background-image: url(../img/pattern.png);
@@ -22,3 +25,17 @@ header {
 
 #writer{color: #1b90d9;}
 
+.highlight{background-color: #ffff00;}
+
+ table{ border-collapse:collapse;
+    table-layout: fixed;
+    width:100%;
+    
+}
+
+.colored{background-color: #00ffff;}
+#intest{color: aliceblue;
+    background-color: #1b90d9;
+    }
+
+    
